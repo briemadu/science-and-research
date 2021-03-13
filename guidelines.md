@@ -58,7 +58,7 @@ A detailed schedule will be posted on Moodle with your names and dates.
 Participation involves:
 
 - working through the reading/watch list of each week
-- filling in the reaction form on Moodle
+- filling in the documentation form on Moodle
 - joining and contributing to the group discussions
 - writing discussion minutes
 - submitting individual worksheet solutions
@@ -72,15 +72,13 @@ Remember that participating in group discussions, completing the weekly tasks
 and the valid submission of worksheets are a prerequisite to pass the course.
 A minimum of 70% is necessary for each of them.
 
-**Reaction**
+**Documentation**
 
 Each week, after working through the suggested material, you must 
-fill in a reaction form about the reading list. There will be a link on Moodle 
-for this. There will also be a field on the reation form
-on Moodle for your to mention two positive and two negative
-aspects of that week's presentation. Be polite and provide constructive
+fill in a reaction form about the reading list and provide feedback 
+about that week's presentation. Be polite and provide constructive
 feedback. I will then gather the feedbacks, anonymise them and share with the
-presenter.
+presenter. There will be a link on Moodle for submitting the documentation.
 
 
 **Minute**
@@ -107,7 +105,7 @@ Notice that we'll have a fixed checklist of tasks every week.
 **Anytime until Sunday 23:59**
 1. work through the material in the reading/watch list, taking personal notes
 2. read/watch the week's presentation
-3. fill in the reaction form
+3. fill in the documentation form
 4. be prepared to discuss the covered topics
 
 **During the group discussion**
