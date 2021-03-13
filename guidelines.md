@@ -19,13 +19,13 @@ On our first meeting on April 12, I will introduce and motivate the topic in a
 live session and we'll get to know each other.
 
 Then, in the following weeks, you'll have a reading/watch list to work through.
-As of the (probably) fourth week, one item in this reading list is the
+As of the (probably) fourth week, one item in this reading list is a
 presentation made by one of your colleagues.
 
 We'll meet on Mondays for a short wrap-up of the previous content and for you
 to work in small groups to discuss a worksheet. I will randomly assign you to
 different breakout rooms each week, so that you have the chance to work with
-different colleagues.
+different peers.
 
 ## Presentation
 
@@ -59,7 +59,6 @@ Participation involves:
 
 - working through the reading/watch list of each week
 - filling in the reaction form on Moodle
-- submitting feedback about that week's presentation
 - joining and contributing to the group discussions
 - writing discussion minutes
 - submitting individual worksheet solutions
@@ -73,12 +72,16 @@ Remember that participating in group discussions, completing the weekly tasks
 and the valid submission of worksheets are a prerequisite to pass the course.
 A minimum of 70% is necessary for each of them.
 
-**Feedback**
+**Reaction**
 
-There will be a form on Moodle for your to mention two positive and two negative
+Each week, after working through the suggested material, you must 
+fill in a reaction form about the reading list. There will be a link on Moodle 
+for this. There will also be a field on the reation form
+on Moodle for your to mention two positive and two negative
 aspects of that week's presentation. Be polite and provide constructive
 feedback. I will then gather the feedbacks, anonymise them and share with the
 presenter.
+
 
 **Minute**
 
@@ -93,10 +96,7 @@ submitted on Moodle right after the meeting, one per group. Put the name of the
 members and the name of the person who wrote it. You must write a minute at
 least once during the semester.
 
-**Reaction**
 
-You must write a two-paragraph reaction to a topic about the reading list each
-week. There will be a Moodle journal for this.
 
 ## Routine
 
@@ -106,10 +106,9 @@ Notice that we'll have a fixed checklist of tasks every week.
 
 **Anytime until Sunday 23:59**
 1. work through the material in the reading/watch list, taking personal notes
-2. fill in the reaction form
-3. read the week's blogpost
-4. submit feedback about that week's blogpost
-5. be prepared to discuss the covered topics
+2. read/watch the week's presentation
+3. fill in the reaction form
+4. be prepared to discuss the covered topics
 
 **During the group discussion**
 1. discuss the worksheet with your colleagues
