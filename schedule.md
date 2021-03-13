@@ -22,4 +22,4 @@ navigation_weight: 3
 | 12 |28.06.2021 | The communication quadrille  | Presenting and communicating research findings
 | 13 |05.07.2021 | Who ruined the replication? | Publishing code and data
 | 14 |12.07.2021 | A better world’s evidence | Good practices, misconduct & ethics
-| 15 |19.07.2021 | The End | Wrap-up & Project discussion | Wrap-up and Project discussion  
+| 15 |19.07.2021 | The End | Wrap-up & Project discussion   
