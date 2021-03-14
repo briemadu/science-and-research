@@ -115,7 +115,7 @@ Notice that we'll have a fixed checklist of tasks every week.
 **After the group discussion**
 1. submit the minute (pdf, one per group) whithin 24 hours
 2. write down your answers to the worksheet individually
-3. submit your answers (pdf) until the next Monday at 6 a.m.
+3. submit your answers (pdf) until the next Sunday at 11:59 p.m.
 
 Each of these tasks will have a corresponding submission link on Moodle.
 
