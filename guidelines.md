@@ -102,20 +102,20 @@ least once during the semester.
 
 Notice that we'll have a fixed checklist of tasks every week.
 
-**Anytime until Sunday 23:59**
+**Anytime until Sunday 11:59 p.m.**
 1. work through the material in the reading/watch list, taking personal notes
 2. read/watch the week's presentation
 3. fill in the documentation form
 4. be prepared to discuss the covered topics
 
-**During the group discussion**
+**During the group discussion (Monday at 10 a.m.)**
 1. discuss the worksheet with your colleagues
 2. one member writes a minute of the discussion
 
-**After the group discussion and before the next Monday at 9:59**
-1. submit the minute (pdf, one per group)
+**After the group discussion**
+1. submit the minute (pdf, one per group) whithin 24 hours
 2. write down your answers to the worksheet individually
-3. submit your answers (pdf)
+3. submit your answers (pdf) until the next Monday at 6 a.m.
 
 Each of these tasks will have a corresponding submission link on Moodle.
 
