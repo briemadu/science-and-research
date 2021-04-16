@@ -11,7 +11,7 @@ navigation_weight: 1
 | :woman_teacher:   | [Brielen Madureira](<https://www.ling.uni-potsdam.de/~madureiralasota/>)   |
 | :date: | Online, Mondays at 10:00 |
 | :hourglass: | 12.04.2021 - 23.07.2021 |
-| :computer:| [Moodle page, course EvalNLP id 25477](<https://moodle2.uni-potsdam.de/course/view.php?id=25477>) |
+| :computer:| [Moodle page, course Science-Research id 27585](<https://moodle2.uni-potsdam.de/course/view.php?id=27585>) |
 | :e-mail:  |  madureiralasota at uni-potsdam dot de |
 
 :warning: The information here may still be changed or updated until April 11
